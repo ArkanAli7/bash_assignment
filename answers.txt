@@ -1,0 +1,6 @@
+1. To do this task by hand, would take more than one day. Moreover we can not prevent miscounting, thus providing uncertain answers.
+
+2. - We reached the conclusion that the bash scrpit can come in handy with regards to tasks that require repetative operations on big data (in our case searching articles in websites).
+   - We can implement the same principle if we have repetative false pronunciation of the name of the prime minister in the articles and we want to know in which articles it occurred and how many times. 
+
+3. One can use contrab and uniq in order to run the script every hour and remove duplicates, respectively.
